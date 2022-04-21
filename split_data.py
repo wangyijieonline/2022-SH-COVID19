@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import os, sys
 
-filename = 'rawdata/0418.txt'
+filename = 'rawdata/0420.txt'
 f = open(filename, encoding='utf-8')
 
 while True:
